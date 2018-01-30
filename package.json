@@ -2,6 +2,9 @@
   "name": "vietnamesefood",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "9.4.0"
+  },
   "devDependencies": {
     "autoprefixer-stylus": "0.10.0",
     "babel-eslint": "^7.1.1",
