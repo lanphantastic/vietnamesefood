@@ -30,4 +30,10 @@ class StorePicker extends React.Component {
   }
 }
 
+// Add a context route
+StorePicker.contextTypes = {
+  router: React.PropTypes.object
+}
+// This will tell React that it expects something call 'router' for StorePicker. React will this available.
+
 export default StorePicker;
