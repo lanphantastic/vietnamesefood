@@ -66,7 +66,7 @@ const fishes = {
 
   fish9: {
     name: 'Banh Tet',
-    image: 'https://i.istockimg.com/file_thumbview_approve/67121439/5/stock-photo-67121439-fresh-tiger-shrimp-on-ice-on-a-black-stone-table.jpg',
+    image: 'https://i.ytimg.com/vi/DIv9GGOlaJY/maxresdefault.jpg',
     desc: 'A savoury but sometimes sweetened cake made primarily from glutinous rice, rolled in a banana leaf with a mung bean or mung bean and pork filling.',
     price: 1500,
     status: 'available'
